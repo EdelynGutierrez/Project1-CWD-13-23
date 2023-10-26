@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+
+.new-content{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, auto));
+    align-items: center;
+    gap: 2.5rem;
+    text-align: center;
+}
